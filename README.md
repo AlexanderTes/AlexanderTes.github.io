@@ -10,7 +10,7 @@ The data was collected from FBI's Uniform Crime Reporting website: https://www.u
 The data was further refined by using Microsoft Excel. 
 It shows the violent crime rate per 100,000 people for each states and DC.
 
-![alt text](https://raw.githubusercontent.com/AlexanderTes/AlexanderTes.github.io/master/)
-Fin
+![Max crime rate](https://raw.githubusercontent.com/AlexanderTes/AlexanderTes.github.io/master/max.png)
+
 
 
