@@ -169,7 +169,7 @@ function Draw_United_States_Total(s,y,c)
 }
 States_list = ["United_States_Total"];
 var var_st;
-var map_color="#c71b19";
+// var map_color="#c71b19";
 //Function to plot line gragh  gray
 function Draw( St,Yr,c)
 {
@@ -534,7 +534,7 @@ function Draw( St,Yr,c)
 				.attr("clip-path","url(#clip)")
 				.attr("transform", "translate(0," + 30 + ")")
 				.attr("height", height2	)
-				.attr("fill", "#fe5581")
+				.attr("fill", "#0ffe38")
 				.attr("opacity",.7); 
 					
 	  });
@@ -707,7 +707,7 @@ function draw_map()
 							console.log(""+c);
 						}								
 						document.getElementById("clear").disabled=false;
-						reDraw(id_name_map[d.id],"2015",c);								
+						reDraw(id_name_map[d.id],"2014",c);
 					})
 
 					//function for tooltip text
